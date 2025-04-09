@@ -1,1 +1,3 @@
 # Projects
+This is a repository to hold my class projects from OSU and any future projects I might endeavor on. At the time of writing, there are four projects I plan on adding to this repo with a possible fifth in the wings. I do not have the fifth project on my resume currently, but i may upload it here anyways. The four projects I will be adding are 'Linux System Harening', 'Penetration Testing', 'Designing a Defensive Solution', and 'Digital Foresnics Incident Response'. 
+The fifth project that might be added is concerning research and a demo for Volatility - a digital forensics tool that analyzes RAM dump files. While this was a good project in which I learned a good deal, I am not sure it belongs on my resume at the moment. 
